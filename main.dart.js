@@ -104374,7 +104374,7 @@ $1(a){return new A.i3($.aTi(),$.a7())},
 $S:687}
 A.Sx.prototype={
 G(a){var s=A.aWx(a,t.hQ).a
-return new A.Ee(this.c?B.eh:B.Em,"StartNow: Pathfinder",s,null)}}
+return new A.Ee(this.c?B.eh:B.Em,"LifeBridge",s,null)}}
 A.qu.prototype={
 a2(){return new A.I3(new A.bY(B.a6,$.a7()))}}
 A.I3.prototype={
@@ -104495,7 +104495,7 @@ break
 case 6:case 1:return A.q(q,r)
 case 2:return A.p(o.at(-1),r)}})
 return A.r($async$x_,r)},
-G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a2h),p=A.b([],t.p)
+G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a2i),p=A.b([],t.p)
 if(s.f==null)p.push(s.aeB())
 else p.push(s.aeR())
 if(s.e)p.push(B.TE)
@@ -104514,7 +104514,7 @@ o=q.f
 o.toString
 B.b.T(s,new A.Y(o,new A.avW(q),A.X(o).i("Y<1,e>")))
 s.push(B.bE)
-s.push(A.cT(A.b([A.dY(B.a26,new A.avX(q),p),A.hG(!1,B.a2N,p,p,p,p,p,p,q.gasR(),p,p)],r),B.t,B.iY,B.u,p))
+s.push(A.cT(A.b([A.dY(B.a27,new A.avX(q),p),A.hG(!1,B.a2N,p,p,p,p,p,p,q.gasR(),p,p)],r),B.t,B.iY,B.u,p))
 return A.bB(s,B.t,B.p,B.u)}}
 A.avY.prototype={
 $0(){this.a.r=this.b.h(0,"goals")},
@@ -104837,7 +104837,7 @@ break
 case 6:case 1:return A.q(q,r)
 case 2:return A.p(o.at(-1),r)}})
 return A.r($async$w_,r)},
-G(a){var s=this,r=null,q=t.p,p=A.dj(A.b([A.dY(B.E_,new A.ay7(s,a),r)],q),!0,r,r,r,r,r,r,B.a2l),o=A.b([A.dy(A.mO(new A.ay8(s),s.e.length,B.ch,!1),1)],q)
+G(a){var s=this,r=null,q=t.p,p=A.dj(A.b([A.dY(B.E_,new A.ay7(s,a),r)],q),!0,r,r,r,r,r,r,B.a2m),o=A.b([A.dy(A.mO(new A.ay8(s),s.e.length,B.ch,!1),1)],q)
 if(s.f)o.push(B.y4)
 o.push(new A.aG(B.ch,A.cT(A.b([A.dy(A.lL(!0,B.bk,!1,r,!0,B.l,r,A.o5(),s.d,r,r,r,r,r,2,B.N2,B.L,!0,r,!0,r,!1,r,B.bo,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,new A.ay9(s),r,!1,r,r,!1,r,!0,r,B.c_,r,r,B.bj,B.b9,r,r,r,r,r,r,r,!0,B.al,r,B.c8,r,r,r,r),1),A.dA(r,r,B.m2,r,r,s.gafd(),r,r,r)],q),B.t,B.p,B.u,r),r))
 return A.dh(p,A.bB(o,B.t,B.p,B.u),r,r)}}
@@ -105107,7 +105107,7 @@ q=r.x
 q.L$=s
 q.O$=0
 r.an()},
-G(a){var s,r,q,p=this,o=null,n=t.p,m=A.dj(A.b([A.dA(o,o,B.M3,o,o,p.gasQ(),o,o,"Save Changes"),A.dA(o,o,B.m1,o,o,p.gagH(),o,o,"Delete Milestone")],n),!0,o,o,o,o,o,o,B.a27)
+G(a){var s,r,q,p=this,o=null,n=t.p,m=A.dj(A.b([A.dA(o,o,B.M3,o,o,p.gasQ(),o,o,"Save Changes"),A.dA(o,o,B.m1,o,o,p.gagH(),o,o,"Delete Milestone")],n),!0,o,o,o,o,o,o,B.a28)
 if(p.e)n=B.aY
 else{s=p.f
 s===$&&A.a()
@@ -105524,7 +105524,7 @@ q===$&&A.a()
 q.L$=s
 q.O$=0
 r.an()},
-G(a){var s,r,q,p=this,o=null,n=A.dj(o,!0,o,o,o,o,o,o,B.a28),m=p.f
+G(a){var s,r,q,p=this,o=null,n=A.dj(o,!0,o,o,o,o,o,o,B.a29),m=p.f
 m===$&&A.a()
 m=A.cD(!1,m,B.m6,o,o,o,1,!1,o,o,o,o)
 s=p.r
@@ -105670,7 +105670,7 @@ break
 case 6:case 1:return A.q(q,r)
 case 2:return A.p(o.at(-1),r)}})
 return A.r($async$CI,r)},
-G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a2k),p=A.cD(!1,s.d,B.N0,r,r,B.DS,1,!1,r,r,r,new A.aBL())
+G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a2l),p=A.cD(!1,s.d,B.N0,r,r,B.DS,1,!1,r,r,r,new A.aBL())
 return A.dh(q,new A.aG(B.bC,A.k5(r,A.bB(A.b([B.a3j,B.bE,p,B.bE,s.f?B.aY:A.hG(!1,B.a2J,r,r,r,r,r,r,s.gats(),r,r)],t.p),B.b2,B.c2,B.u),s.e),r),r,r)}}
 A.aBI.prototype={
 $0(){return this.a.f=!0},
@@ -106135,10 +106135,10 @@ o=o==null||o.length===0?s.aeP():A.bB(A.b([s.aeG(),A.dy(s.aeQ(),1)],q),B.t,B.p,B.
 aeG(){var s,r=null,q=this.e
 if(q==null)return B.aq
 s=t.p
-return new A.aG(B.bB,A.bB(A.b([A.cT(A.b([B.a2g,A.aa("Age "+A.k(q),r,r,r,r,B.a1B,r,r,r)],s),B.t,B.cm,B.u,r),B.hr,new A.DP(B.d.eV((q-18)/82,0,1),r,r,r,r,r,r)],s),B.t,B.p,B.u),r)},
+return new A.aG(B.bB,A.bB(A.b([A.cT(A.b([B.a2h,A.aa("Age "+A.k(q),r,r,r,r,B.a1B,r,r,r)],s),B.t,B.cm,B.u,r),B.hr,new A.DP(B.d.eV((q-18)/82,0,1),r,r,r,r,r,r)],s),B.t,B.p,B.u),r)},
 aeP(){var s=null,r=this.c
 r.toString
-return A.ec(new A.aG(B.bC,A.bB(A.b([B.M5,B.bE,A.aa("Your timeline is empty.",s,s,s,s,A.H(r).ok.e,B.b0,s,s),B.Dj,B.a2i,B.bE,A.abk(B.Md,B.a2V,new A.aE_(this),s)],t.p),B.t,B.c2,B.u),s),s,s)},
+return A.ec(new A.aG(B.bC,A.bB(A.b([B.M5,B.bE,A.aa("Your timeline is empty.",s,s,s,s,A.H(r).ok.e,B.b0,s,s),B.Dj,B.a2j,B.bE,A.abk(B.Md,B.a2V,new A.aE_(this),s)],t.p),B.t,B.c2,B.u),s),s,s)},
 aeQ(){return A.mO(new A.aE0(this),this.d.length,B.ll,!1)},
 aeH(a){var s,r,q,p=this,o=null,n=A.kX(8),m=p.c
 m.toString
@@ -106412,7 +106412,7 @@ s=m.Vf(m.d)
 r=m.d
 q=r===B.dj||r===B.kp
 r=t.p
-p=A.dj(A.b([A.dA(l,l,B.M2,l,l,new A.aEY(m,a),l,l,"Search")],r),!0,l,l,l,l,l,l,B.a2p)
+p=A.dj(A.b([A.dA(l,l,B.M2,l,l,new A.aEY(m,a),l,l,"Search")],r),!0,l,l,l,l,l,l,B.a25)
 r=A.fH(B.b7,A.b([m.aeq(),B.KR],r),B.l,B.aT,l)
 if(q){o=A.V(s,t.Rd)
 o.push(B.Fi)
@@ -106435,7 +106435,7 @@ $0(){this.a.e=this.b},
 $S:0}
 A.aEX.prototype={
 $1(a){var s=null,r=this.a
-return A.aXN(A.b([A.fB(!1,s,s,s,!0,s,s,!0,s,B.m4,s,s,new A.aES(r,a),!1,s,s,s,s,s,B.a2m,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.Mh,s,s,new A.aET(r,a),!1,s,s,s,s,s,B.a21,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.qS,s,s,new A.aEU(r,a),!1,s,s,s,s,s,B.E1,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.qY,s,s,new A.aEV(r,a),!1,s,s,s,s,s,B.E0,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.Ma,s,s,new A.aEW(r,a),!1,s,s,s,s,s,B.E4,s,s)],t.p))},
+return A.aXN(A.b([A.fB(!1,s,s,s,!0,s,s,!0,s,B.m4,s,s,new A.aES(r,a),!1,s,s,s,s,s,B.a2n,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.Mh,s,s,new A.aET(r,a),!1,s,s,s,s,s,B.a21,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.qS,s,s,new A.aEU(r,a),!1,s,s,s,s,s,B.E1,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.qY,s,s,new A.aEV(r,a),!1,s,s,s,s,s,B.E0,s,s),A.fB(!1,s,s,s,!0,s,s,!0,s,B.Ma,s,s,new A.aEW(r,a),!1,s,s,s,s,s,B.E4,s,s)],t.p))},
 $S:732}
 A.aES.prototype={
 $0(){A.bh(this.b,!1).dR(null)
@@ -106683,9 +106683,9 @@ case 2:return A.p(o.at(-1),r)}})
 return A.r($async$B5,r)},
 G(a){var s,r,q=this,p=null,o=A.dj(p,!0,p,p,p,p,p,p,B.a2W),n=A.aa("Create Your Network Profile",p,p,p,p,A.H(a).ok.a,B.b0,p,p),m=A.cD(!1,q.e,B.N5,p,p,p,1,!1,p,p,p,new A.aFK()),l=q.r
 l=A.aa(l==null?"Not Set":l,p,p,p,p,p,p,p,p)
-s=A.dY(B.a2a,new A.aFL(q,a),p)
+s=A.dY(B.a2b,new A.aFL(q,a),p)
 r=A.aa("By joining, you agree that your tasks can optionally be made public and your general location will be used to connect you with others.",p,p,p,p,A.H(a).ok.Q,B.b0,p,p)
-return A.dh(o,A.nk(A.k5(p,A.bB(A.b([n,B.bE,m,B.ai,B.a2X,l,s,B.cM,r,B.ai,q.f?B.aY:A.hG(!1,B.a2f,p,p,p,p,p,p,q.gadW(),p,p)],t.p),B.b2,B.p,B.u),q.d),p,B.L,B.bC,p,B.ac),p,p)}}
+return A.dh(o,A.nk(A.k5(p,A.bB(A.b([n,B.bE,m,B.ai,B.a2X,l,s,B.cM,r,B.ai,q.f?B.aY:A.hG(!1,B.a2g,p,p,p,p,p,p,q.gadW(),p,p)],t.p),B.b2,B.p,B.u),q.d),p,B.L,B.bC,p,B.ac),p,p)}}
 A.aFG.prototype={
 $0(){return this.a.f=!0},
 $S:0}
@@ -106843,7 +106843,7 @@ i=A.bB(A.b([A.aa(j,g,g,g,g,A.H(i).ok.a,g,g,g),B.a2I],h),B.t,B.p,B.u)
 k=B.e.j(k)
 j=r.c
 j.toString
-h=A.b([o,n,m,l,B.q6,A.mg(new A.aG(B.bB,A.cT(A.b([i,A.bB(A.b([A.aa(k,g,g,g,g,A.H(j).ok.a,g,g,g),B.a3n],h),B.t,B.p,B.u)],h),B.t,B.iY,B.u,g),g),g,g),B.ai,A.aX9(new A.aFV(r),B.a2c,s.h(0,"is_active")),B.ai,A.hG(!1,B.a23,g,g,g,g,g,g,new A.aFW(),g,g),A.dY(B.a25,r.gagI(),g),B.q6,A.aa("Reviews",g,g,g,g,A.H(a).ok.f,g,g,g)],h)
+h=A.b([o,n,m,l,B.q6,A.mg(new A.aG(B.bB,A.cT(A.b([i,A.bB(A.b([A.aa(k,g,g,g,g,A.H(j).ok.a,g,g,g),B.a3n],h),B.t,B.p,B.u)],h),B.t,B.iY,B.u,g),g),g,g),B.ai,A.aX9(new A.aFV(r),B.a2d,s.h(0,"is_active")),B.ai,A.hG(!1,B.a23,g,g,g,g,g,g,new A.aFW(),g,g),A.dY(B.a26,r.gagI(),g),B.q6,A.aa("Reviews",g,g,g,g,A.H(a).ok.f,g,g,g)],h)
 if(q.length===0)h.push(B.TD)
 B.b.T(h,new A.Y(q,new A.aFX(),A.X(q).i("Y<1,e>")))
 return A.anM(A.ag4(h,B.bB,g,!1),r.gas5())},
@@ -107350,7 +107350,7 @@ s.aM$=null
 s.an()}}
 A.x9.prototype={
 G(a){var s=null
-return A.dh(A.dj(s,!0,s,s,s,s,s,s,B.a2o),new A.aG(B.bC,A.bB(A.b([B.qV,B.cM,A.aa("Reset Link Sent",s,s,s,s,A.H(a).ok.a,B.b0,s,s),B.ai,A.aa('We have sent a password reset link to your email. Please click the link, then return here and press "Continue".',s,s,s,s,A.H(a).ok.y,B.b0,s,s),B.Dk,A.hG(!1,B.E8,s,s,s,s,s,s,new A.alk(a),s,A.aPV(s,s,B.aC,s,s,s,s,s,s,B.j,s,s,B.ll,s,s,s,s,s,s,s))],t.p),B.b2,B.c2,B.u),s),s,s)}}
+return A.dh(A.dj(s,!0,s,s,s,s,s,s,B.a2p),new A.aG(B.bC,A.bB(A.b([B.qV,B.cM,A.aa("Reset Link Sent",s,s,s,s,A.H(a).ok.a,B.b0,s,s),B.ai,A.aa('We have sent a password reset link to your email. Please click the link, then return here and press "Continue".',s,s,s,s,A.H(a).ok.y,B.b0,s,s),B.Dk,A.hG(!1,B.E8,s,s,s,s,s,s,new A.alk(a),s,A.aPV(s,s,B.aC,s,s,s,s,s,s,B.j,s,s,B.ll,s,s,s,s,s,s,s))],t.p),B.b2,B.c2,B.u),s),s,s)}}
 A.alk.prototype={
 $0(){A.bh(this.a,!1).G3(A.e2(new A.ali(),null,t.z),new A.alj())},
 $S:0}
@@ -107464,7 +107464,7 @@ r.L$=q
 r.O$=0
 s.an()},
 G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a31),p=t.p
-return A.dh(q,s.e?A.ec(A.bB(A.b([B.en,B.ai,A.aa(s.f,r,r,r,r,r,r,r,r)],p),B.t,B.c2,B.u),r,r):A.nk(A.k5(r,A.bB(A.b([s.Ig("Account"),A.cD(!1,s.r,B.m6,r,r,r,1,!1,r,r,r,new A.aHr()),A.cD(!1,s.w,B.rc,r,r,B.cO,1,!1,r,r,r,new A.aHs()),s.Ig("Who are you right now?"),A.aa("This helps the AI create a more realistic starting point for your plan.",r,r,r,r,A.H(a).ok.z,r,r,r),B.hr,A.cD(!1,s.x,B.MV,r,r,r,3,!1,r,r,r,r),s.Ig("What are your long-term goals?"),A.aa("Describe your goals to help the AI create your initial plan. You can change this later.",r,r,r,r,A.H(a).ok.z,r,r,r),B.hr,A.cD(!1,s.y,B.MP,r,r,r,4,!1,r,r,r,new A.aHt()),B.nB,A.ec(A.hG(!1,B.a2e,r,r,r,r,r,r,s.gasS(),r,r),r,r)],p),B.ba,B.p,B.u),s.d),r,B.L,B.bC,r,B.ac),r,r)},
+return A.dh(q,s.e?A.ec(A.bB(A.b([B.en,B.ai,A.aa(s.f,r,r,r,r,r,r,r,r)],p),B.t,B.c2,B.u),r,r):A.nk(A.k5(r,A.bB(A.b([s.Ig("Account"),A.cD(!1,s.r,B.m6,r,r,r,1,!1,r,r,r,new A.aHr()),A.cD(!1,s.w,B.rc,r,r,B.cO,1,!1,r,r,r,new A.aHs()),s.Ig("Who are you right now?"),A.aa("This helps the AI create a more realistic starting point for your plan.",r,r,r,r,A.H(a).ok.z,r,r,r),B.hr,A.cD(!1,s.x,B.MV,r,r,r,3,!1,r,r,r,r),s.Ig("What are your long-term goals?"),A.aa("Describe your goals to help the AI create your initial plan. You can change this later.",r,r,r,r,A.H(a).ok.z,r,r,r),B.hr,A.cD(!1,s.y,B.MP,r,r,r,4,!1,r,r,r,new A.aHt()),B.nB,A.ec(A.hG(!1,B.a2f,r,r,r,r,r,r,s.gasS(),r,r),r,r)],p),B.ba,B.p,B.u),s.d),r,B.L,B.bC,r,B.ac),r,r)},
 Ig(a){var s=null,r=this.c
 r.toString
 return new A.aG(B.Kj,A.aa(a,s,s,s,s,A.H(r).ok.e,s,s,s),s)}}
@@ -108158,7 +108158,7 @@ break
 case 6:case 1:return A.q(q,r)
 case 2:return A.p(o.at(-1),r)}})
 return A.r($async$Db,r)},
-G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a2d),p=A.cD(!1,s.e,B.MK,r,r,r,1,!0,r,r,r,new A.aLS())
+G(a){var s=this,r=null,q=A.dj(r,!0,r,r,r,r,r,r,B.a2e),p=A.cD(!1,s.e,B.MK,r,r,r,1,!0,r,r,r,new A.aLS())
 return A.dh(q,new A.aG(B.bC,A.k5(r,A.bB(A.b([p,B.bE,s.f?B.aY:A.hG(!1,B.a2Y,r,r,r,r,r,r,s.gavY(),r,r)],t.p),B.b2,B.c2,B.u),s.d),r),r,r)}}
 A.aLQ.prototype={
 $0(){return this.a.f=!0},
@@ -113172,8 +113172,8 @@ B.a1S=new A.aj("No upcoming tasks due in the next year.",null,null,null,null,nul
 B.HE=new A.eE(B.I,null,null,B.a1S,null)
 B.a3e=new A.aj("Start the conversation!",null,null,null,null,null,null,null,null,null,null)
 B.HF=new A.eE(B.I,null,null,B.a3e,null)
-B.a2b=new A.aj("No public tasks or requests available nearby.",null,null,null,null,null,null,null,null,null,null)
-B.HG=new A.eE(B.I,null,null,B.a2b,null)
+B.a2c=new A.aj("No public tasks or requests available nearby.",null,null,null,null,null,null,null,null,null,null)
+B.HG=new A.eE(B.I,null,null,B.a2c,null)
 B.bC=new A.aw(24,24,24,24)
 B.b0=new A.nu(2,"center")
 B.a1X=new A.aj('This screen will feature temporary or "flash" companies and investment opportunities.',null,null,B.b0,null,null,null,null,null,null,null)
@@ -113186,8 +113186,8 @@ B.a3l=new A.aj("Could not load profile.",null,null,null,null,null,null,null,null
 B.HJ=new A.eE(B.I,null,null,B.a3l,null)
 B.a3o=new A.aj("No conversations yet.",null,null,null,null,null,null,null,null,null,null)
 B.HK=new A.eE(B.I,null,null,B.a3o,null)
-B.a2j=new A.aj("This screen will allow users to connect with and view the progress of their friends.",null,null,B.b0,null,null,null,null,null,null,null)
-B.TA=new A.aG(B.bC,B.a2j,null)
+B.a2k=new A.aj("This screen will allow users to connect with and view the progress of their friends.",null,null,B.b0,null,null,null,null,null,null,null)
+B.TA=new A.aG(B.bC,B.a2k,null)
 B.HL=new A.eE(B.I,null,null,B.TA,null)
 B.a2u=new A.aj("This screen will provide opportunities for users to earn money through the platform.",null,null,B.b0,null,null,null,null,null,null,null)
 B.TB=new A.aG(B.bC,B.a2u,null)
@@ -115706,10 +115706,10 @@ B.a2w=new A.aj("Thank you for your feedback!",null,null,null,null,null,null,null
 B.XI=new A.fG(B.a2w,B.cg,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
 B.a2s=new A.aj("Email does not match.",null,null,null,null,null,null,null,null,null,null)
 B.XJ=new A.fG(B.a2s,B.a9,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
-B.a2n=new A.aj("Network profile deleted.",null,null,null,null,null,null,null,null,null,null)
-B.XK=new A.fG(B.a2n,B.cg,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
-B.a29=new A.aj("Please select a location.",null,null,null,null,null,null,null,null,null,null)
-B.XL=new A.fG(B.a29,null,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
+B.a2o=new A.aj("Network profile deleted.",null,null,null,null,null,null,null,null,null,null)
+B.XK=new A.fG(B.a2o,B.cg,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
+B.a2a=new A.aj("Please select a location.",null,null,null,null,null,null,null,null,null,null)
+B.XL=new A.fG(B.a2a,null,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
 B.a20=new A.aj("Password updated successfully!",null,null,null,null,null,null,null,null,null,null)
 B.XM=new A.fG(B.a20,B.cg,null,null,null,null,null,null,null,null,null,null,null,B.R,null,null,null,B.l,null)
 B.Dr=new A.GI(0,"permissive")
@@ -116104,25 +116104,25 @@ B.a2_=new A.aj("Modify",null,null,null,null,null,null,null,null,null,null)
 B.a21=new A.aj("Network Mode",null,null,null,null,null,null,null,null,null,null)
 B.a22=new A.aj("Save",null,null,null,null,null,null,null,null,null,null)
 B.a23=new A.aj("Get Verified",null,null,null,null,null,null,null,null,null,null)
+B.a25=new A.aj("LifeBridge by Clarity Systems",null,null,null,null,null,null,null,null,null,null)
 B.E0=new A.aj("Earn With Us",null,null,null,null,null,null,null,null,null,null)
 B.nN=new A.w(!0,B.a9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a25=new A.aj("Delete Network Profile",null,B.nN,null,null,null,null,null,null,null,null)
-B.a26=new A.aj("Discard",null,null,null,null,null,null,null,null,null,null)
-B.a27=new A.aj("Edit Milestone",null,null,null,null,null,null,null,null,null,null)
-B.a28=new A.aj("Edit Profile",null,null,null,null,null,null,null,null,null,null)
-B.a2a=new A.aj("Select Location",null,null,null,null,null,null,null,null,null,null)
-B.a2c=new A.aj("Profile Active",null,null,null,null,null,null,null,null,null,null)
-B.a2d=new A.aj("Create New Password",null,null,null,null,null,null,null,null,null,null)
-B.a2e=new A.aj("Save and Build My Plan",null,null,null,null,null,null,null,null,null,null)
-B.a2f=new A.aj("Agree & Join Network",null,null,null,null,null,null,null,null,null,null)
-B.a2g=new A.aj("Life Progress",null,B.cr,null,null,null,null,null,null,null,null)
-B.a2h=new A.aj("Add Milestone(s)",null,null,null,null,null,null,null,null,null,null)
-B.a2i=new A.aj("Add your first milestone to get started.",null,null,B.b0,null,null,null,null,null,null,null)
-B.a2k=new A.aj("Reset Password",null,null,null,null,null,null,null,null,null,null)
-B.a2l=new A.aj("Plan with AI",null,null,null,null,null,null,null,null,null,null)
-B.a2m=new A.aj("Self Mode",null,null,null,null,null,null,null,null,null,null)
-B.a2o=new A.aj("Check Your Email",null,null,null,null,null,null,null,null,null,null)
-B.a2p=new A.aj("StartNow: Pathfinder",null,null,null,null,null,null,null,null,null,null)
+B.a26=new A.aj("Delete Network Profile",null,B.nN,null,null,null,null,null,null,null,null)
+B.a27=new A.aj("Discard",null,null,null,null,null,null,null,null,null,null)
+B.a28=new A.aj("Edit Milestone",null,null,null,null,null,null,null,null,null,null)
+B.a29=new A.aj("Edit Profile",null,null,null,null,null,null,null,null,null,null)
+B.a2b=new A.aj("Select Location",null,null,null,null,null,null,null,null,null,null)
+B.a2d=new A.aj("Profile Active",null,null,null,null,null,null,null,null,null,null)
+B.a2e=new A.aj("Create New Password",null,null,null,null,null,null,null,null,null,null)
+B.a2f=new A.aj("Save and Build My Plan",null,null,null,null,null,null,null,null,null,null)
+B.a2g=new A.aj("Agree & Join Network",null,null,null,null,null,null,null,null,null,null)
+B.a2h=new A.aj("Life Progress",null,B.cr,null,null,null,null,null,null,null,null)
+B.a2i=new A.aj("Add Milestone(s)",null,null,null,null,null,null,null,null,null,null)
+B.a2j=new A.aj("Add your first milestone to get started.",null,null,B.b0,null,null,null,null,null,null,null)
+B.a2l=new A.aj("Reset Password",null,null,null,null,null,null,null,null,null,null)
+B.a2m=new A.aj("Plan with AI",null,null,null,null,null,null,null,null,null,null)
+B.a2n=new A.aj("Self Mode",null,null,null,null,null,null,null,null,null,null)
+B.a2p=new A.aj("Check Your Email",null,null,null,null,null,null,null,null,null,null)
 B.a2q=new A.aj("Post Request",null,null,null,null,null,null,null,null,null,null)
 B.a2r=new A.aj("Change Location",null,null,null,null,null,null,null,null,null,null)
 B.a2t=new A.aj("Daily Plan",null,null,null,null,null,null,null,null,null,null)
