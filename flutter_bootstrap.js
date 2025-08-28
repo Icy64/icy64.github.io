@@ -38,10 +38,6 @@ _flutter.buildConfig = {"engineRevision":"a8bfdfc394deaed5c57bd45a64ac4294dc976a
 
 _flutter.loader.load({
   serviceWorkerSettings: {
-<<<<<<< HEAD
-    serviceWorkerVersion: "194774542"
-=======
-    serviceWorkerVersion: "4081958054"
->>>>>>> parent of 8a86b5f (password previous update contained navigation.)
+    serviceWorkerVersion: "3328366284"
   }
 });
